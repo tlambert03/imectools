@@ -1,0 +1,9 @@
+# Do not edit - changes here will be overwritten by Copier
+_commit: v1
+_src_path: gh:tlambert03/pyrepo
+mode: tooling
+module_name: imectools
+project_name: imectools
+project_short_description: Tools for the core formerly known as the Nikon Imaging
+    Center at HMS
+
